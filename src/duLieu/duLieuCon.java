@@ -198,6 +198,9 @@ public class duLieuCon {
 			i++;
 		}
 	}
+	public void q17() {
+		
+	}
 
 	// Tạo Department
 	public void duLieuCon1() {
